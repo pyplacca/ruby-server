@@ -6,7 +6,7 @@ get '/' do
 		Welcome to the world of
 		<a href='https://ruby-lang.org'>Ruby</a>
 	</h1>
-	<p><a href='/about'>About</a></p>
+	<a href='/about'>About</a>
 	"
 end
 
